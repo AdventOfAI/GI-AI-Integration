@@ -1,4 +1,4 @@
-# GI Actuarial Workbench
+# GI AI Integration
 
 Interactive case study for **Australian motor/property insurance**: paid claims development (chain ladder & Bornhuetter–Ferguson), a 2023 reinsurance comparison (quota share vs XL), and **APRA GPS 110**–style prescribed capital. All figures in the UI are **$000s AUD**; valuation date **31 Dec 2023**.
 
